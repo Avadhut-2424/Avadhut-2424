@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=Avadhut&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Java%20%2B%20AI%20Developer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Avadhut banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0092ff&height=240&section=header&text=Avadhut&fontSize=68&fontColor=ffffff&fontAlignY=38&fontStyle=bold&desc=Java%20Backend%20%C2%B7%20AI%20Engineer&descSize=20&descAlignY=58&descColor=ffffffaa&animation=fadeIn&stroke=ffffff&strokeWidth=2" width="100%" alt="Avadhut banner"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06b6d4&center=true&vCenter=true&width=640&lines=Java%20backend%20engineer;RAG%20%C2%B7%20FAISS%20%C2%B7%20AI%20agents;DSA%20%C2%B7%20System%20Design%20%C2%B7%20OOP)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06b6d4&center=true&vCenter=true&width=640&lines=Turning%20coffee%20into%20Spring%20Boot%20APIs;Teaching%20AI%20to%20research%20like%20a%20pro;Microservices%20%C2%B7%20Kafka%20%C2%B7%20Scale)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhut-jadhav-b71b47325/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://javadhut19@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://javadhut19@gmail.com) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javadhut19@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=Avadhut-2424&color=06b6d4&style=flat-square)
 
@@ -81,6 +81,6 @@ Electronics & Computer Engineering student building Spring Boot microservices an
 
 <sub>Made with <a href="https://lebedevnet.github.io/ReadmeForge/">ReadmeForge</a> · <a href="https://github.com/Avadhut-2424">github.com/Avadhut-2424</a></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="Footer wave"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d1ff,100:0092ff&height=120&section=footer" width="100%" alt="Footer wave"/>
 
 </div>
