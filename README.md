@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06b6d4&center=true&vCenter=true&width=640&lines=Building%20reliable%20backend%20systems%20%2F%20Java%20%C2%B7%20Spring%20%C2%B7%20AI;Multi-agent%20RAG%20pipelines%20%2F%20LLMs%20in%20production;250%2B%20DSA%20problems%20solved%20%2F%20Microservices%20%C2%B7%20Kafka%20%C2%B7%20Docker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06b6d4&center=true&vCenter=true&width=640&lines=Java%20backend%20engineer;RAG%20%C2%B7%20FAISS%20%C2%B7%20AI%20agents;DSA%20%C2%B7%20System%20Design%20%C2%B7%20OOP)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avadhut-jadhav-b71b47325/) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://javadhut19@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://javadhut19@gmail.com) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:javadhut19@gmail.com) ![Profile Views](https://komarev.com/ghpvc/?username=Avadhut-2424&color=06b6d4&style=flat-square)
 
